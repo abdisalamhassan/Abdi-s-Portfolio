@@ -1,4 +1,4 @@
-Responsive-Portfolio
+Portfolio
 
 This is my current portfolio.
 
