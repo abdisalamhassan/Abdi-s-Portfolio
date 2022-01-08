@@ -2,14 +2,19 @@
 
 This is my current portfolio.
 
-## About Me
+## Table of Contents
 
-This section will be focused on who I am and the goals/projects that I am currently working on.
+[1.Usage](#1-Usage)
+[2.Contribution](#2-Contribution)
+[3.Screenshots](#3-Screenshots)
 
-Projects
+## Usage
 
-In this are you'll be able to see the various diffrent projects that Im working. These will include languages such as HTML,CSS, Javascript etc.
+https://github.com/abdisalamhassan/Portfolio
 
-### Contact Me
+## Contribution
+Made by Abdi Hassan
+
+## Screenshots
 
 The "Contact Me" portion is so anybody who wants to communicate with me can. This can be for job opportunities, criticism or compliments.
