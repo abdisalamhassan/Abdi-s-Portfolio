@@ -14,6 +14,8 @@ This is my current portfolio.
 
 https://github.com/abdisalamhassan/Portfolio
 
+https://abdisalamhassan.github.io/Portfolio/
+
 ## Contribution
 Made by Abdi Hassan
 
