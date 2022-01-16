@@ -10,9 +10,9 @@ This is my current portfolio.
 
 [3.Screenshots](#3-Screenshots)
 
-## Usage
+## Site Access
 
-https://github.com/abdisalamhassan/Portfolio
+https://abdisalamhassan.github.io/Abdi-s-Portfolio/
 
 ## Contribution
 Made by Abdi Hassan
